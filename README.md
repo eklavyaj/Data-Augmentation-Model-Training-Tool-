@@ -96,7 +96,7 @@ backend/
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/anjalisoni3655/Bosch`
+- Clone this repo to your local machine using `https://github.com/eklavyaj/Data-Augmentation-Model-Training-Tool`
 
 ### Steps to run backend
 
